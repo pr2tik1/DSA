@@ -1,5 +1,7 @@
 package Loops;
 
+import java.util.ArrayList;
+
 public class PrintDigits {
     static void Print_Digits(int N){
         int num = N;
